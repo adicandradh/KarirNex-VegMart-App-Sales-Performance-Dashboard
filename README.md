@@ -29,7 +29,7 @@ Fokus utama dari project ini adalah bagaimana data transaksi penjualan dapat dio
 - Pivot table & pivot chart
 - Data visualization & dashboard design
 ## 🖼️ Preview
-<img width="1872" height="892" alt="Sales Performance Dashboard" src="https://github.com/user-attachments/assets/1f2b59d3-abef-48ca-999e-5d2de8ef5587" />
+<img width="1866" height="886" alt="KarirNex VegMart App Sales Performance Dashboard   " src="https://github.com/user-attachments/assets/3bc0844c-afef-4b1a-bff6-89d86f9bc362" />
 
 ## 📊 Dashboard Highlights
 - KPI summary (total sales, total quantity, total orders, discount amount, dan average rating)
