@@ -11,12 +11,12 @@ Fokus utama dari project ini adalah bagaimana data transaksi penjualan dapat dio
 - Mengevaluasi tren penjualan dari waktu ke waktu
 - Mengidentifikasi preferensi pelanggan berdasarkan metode pembayaran dan rating produk
 - Menganalisis distribusi order berdasarkan jenis kelamin pelanggan
-## 🧠 Data Processing
+## ⚙️ Data Processing
 - Data cleaning untuk memastikan konsistensi format data
 - Pembuatan calculated fields
 - Ekstraksi informasi waktu dari tanggal transaksi
 - Pengelompokan data ke dalam kategori transaksi
-## ⚙️ Business Logic
+## 🧠 Business Logic
 - Subtotal dihitung berdasarkan perkalian antara harga satuan dan jumlah pembelian (unit price * quantity)
 - Discount amount dihitung sebagai persentase diskon terhadap subtotal (subtotal * discount %)
 - Grand total merupakan total akhir yang dibayarkan pelanggan, termasuk biaya pengiriman (total sales + shipping fee)
